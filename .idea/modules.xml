@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/pdf-bom-parser.iml" filepath="$PROJECT_DIR$/.idea/pdf-bom-parser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pdf-bom-parser.iml" filepath="$PROJECT_DIR$/pdf-bom-parser.iml" />
     </modules>
   </component>
 </project>
